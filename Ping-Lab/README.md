@@ -12,4 +12,4 @@ I Successfully established a connection between the two vms showing I set up my 
 ![Metasploitable IP](./Screenshots/ifconfig.png)
 
 **Connectivity Success:**
-![Kali Ping Success](./kaliping.jpg)
+![Kali Ping Success](./kaliping.jfif)
