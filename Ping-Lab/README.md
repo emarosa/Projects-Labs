@@ -8,8 +8,7 @@ I Successfully established a connection between the two vms showing I set up my 
 
 
 
-**Target IP Identification:**
-![Metasploitable IP](./Screenshots/ifconfig.png)
-
-**Connectivity Success:**
-![Kali Ping Success](./kaliping.jfif)
+<p align="left">
+  <img src="./Screenshots/ifconfig.png" width="45%">
+  <img src="./Screenshots/kaliping.jfif" width="45%">
+</p>
