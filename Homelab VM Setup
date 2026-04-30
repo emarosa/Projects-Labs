@@ -1,0 +1,7 @@
+###  VirtualBox Home Lab Setup
+* **What Im Using:** Oracle VM VirtualBox
+* **Network Topology:** Isolated NAT Network (`10.0.2.0/24`)
+* **Endpoints:**
+    * **Ubuntu 22.04:** Used for Linux CLI and Network monitoring.
+    * **Windows 11 Ent:** Used for practicing Registry edits and Group Policy.
+* **Key Achievement:** Configured internal communication between OSs  
