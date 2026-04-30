@@ -31,15 +31,6 @@ While many ports are open, Port 21 stood out as a bigggg vulnerability. The scan
 * **CVE ID:** [CVE-2011-2523](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2011-2523)
 * **Vulnerability Type:** Backdoor Command Execution.
 * **Description:** This version of vsftpd contains a malicious backdoor that allows for unauthorized root access if a specific string (`:)`) is included in the username during login.
-
 ---
-
-##  Lab Evidence
-<p align="left">
- <video src="./Nmap-Lab-Video/Nmaplab" width="90%" />
-</p>
-
----
-
 ##  Conclusion
 By doing this scan, I  mapped an open port to a verified critical vulnerability. This shows the transition from network discovery to vulnerability research.
